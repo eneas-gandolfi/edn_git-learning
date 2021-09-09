@@ -1,1 +1,16 @@
 Interfaces de acesso AWS
+  3 tipos:
+    AWS Managent Console, Command Line Interface (CLI) e Software Deevelopment Kit (SKD);
+
+AWS BUDGETS
+  Definir orçamentos personalizados e enviar alertas;
+
+AWS Cost explorer
+  Verificar o consumo de uso;
+  Identificar possíveis anomalias;
+  Interface para visualizar, entender e gerenciar os custos e o uso da AWS ao longo do tempo;
+  
+ AWS Princing Calculator 
+  Adicionar serviço;
+  Configurar e ajustar serviço;
+  Obtenha estimativa de preços;
